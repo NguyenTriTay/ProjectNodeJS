@@ -25,7 +25,7 @@ The application is deployed to Heroku and can be accessed through the following 
 [LoveBook on Heroku](https://lovebook206.herokuapp.com/)
 
 - Test User Credentials
-  - Email: `gblhiep@gmail.com`
+  - Email: `tay54570@gmail.com`
   - Password: `test1234`
 - Test Admin Credentials
   - Email: `admin@gmail.com`
